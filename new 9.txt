@@ -1,5 +1,16 @@
-this is got testing purpose -- Ready for first commit
-jkbksabkbask dk kabsk akms kja
-kasbknaksbdkjas kd aks k asdlnasld las d asdlnaslds k asj
-sbhjkasbkdbaksbdkasbkab
- 
+git clone "https://github.com/aws-samples/aws-cdk-pipelines-datalake-infrastructure.git"
+git branch
+git status
+git pull branchmain
+git checkout branchname
+git remote
+git push -u origin branchname
+git branch -M main (rename existing branh name)
+git remote add origin git_url
+git merge branch
+git commit -m "comments here"
+git commit -am "comments here"
+git commit -m . (commit all in the branch)
+
+
+
